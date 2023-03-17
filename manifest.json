@@ -1,0 +1,45 @@
+{
+  "name": "PWA Teste",
+  "short_name": "PWA Teste",
+  "icons": [
+    {
+      "src": "C:/Users/aluno/Music/queOTA/Site_News-main/Site_News-main/html5up-helios/images/_/128.png",
+      "sizes": "128x128",
+      "type": "image/png"
+    },
+    {
+      "src": "C:/Users/aluno/Music/queOTA/site_News-main/Site_News-main/html5up-helios/images/_/144.png",
+      "sizes": "144x144",
+      "type": "image/png"
+    },
+    {
+      "src": "C:/Users/alunoMusic/queOTA/Site_News-main/Site_News-main/html5up-helios/images/_/152.png",
+      "sizes": "152x152",
+      "type": "image/png"
+    },
+    {
+      "src": "C:/Users/aluno/Music/queOTA/Site_News-main/Site_News-main/html5up-helios/images/_/167.png",
+      "sizes": "167x167",
+      "type": "image/png"
+    },
+    {
+      "src": "C:/Users/aluno/Music/queOTA/Site_News-main/Site_News-main/html5up-helios/images/_/180.png",
+      "sizes": "180x180",
+      "type": "image/png"
+    },
+    {
+      "src": "C:/Users/aluno/Music/queOTA/Site_News-main/Site_News-main/html5up-helios/images/_/256.png",
+      "sizes": "256x256",
+      "type": "image/png"
+    },
+    {
+      "src": "C:/Users/aluno/Music/queOTA/site_News-main/Site_News-main/html5up-helios/images/_/512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ],
+  "start_url": "index.html",
+  "display": "standalone",
+  "background_color": "#31506F",
+  "theme_color": "#4D5360"
+}
